@@ -3,3 +3,60 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#center {
+  text-align: center;
+}
+nav a {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  background-color: grey; 
+}
+figcaption{
+  text-size-adjust: 3;
+  text-align: center;
+}
+p {
+  margin: auto;
+  text-align: center;
+  width: 800px;
+}
+p.big {
+  line-height: 1.4;
+}
+div{
+  display: inline;
+  float: left;
+  background-color: red;
+}
+.div1 {
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+.div2 {
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+.div3 {
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+.div4 {
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+h3 { 
+  float: left;
+}
